@@ -1,0 +1,12 @@
+findstr /c "lead=0" data.txt >> lead0.txt
+findstr /c "lead=1" data.txt >> lead1.txt
+findstr /c "lead=2" data.txt >> lead2.txt
+findstr /c "lead=3" data.txt >> lead3.txt
+findstr /c "lead=4" data.txt >> lead4.txt
+findstr /c "lead=5" data.txt >> lead5.txt
+findstr /c "lead=6" data.txt >> lead6.txt
+findstr /c "lead=7" data.txt >> lead7.txt
+findstr /c "lead=8" data.txt >> lead8.txt
+findstr /c "lead=9" data.txt >> lead9.txt
+findstr /c "lead=10" data.txt >> lead10.txt
+findstr /c "lead=11" data.txt >> lead11.txt

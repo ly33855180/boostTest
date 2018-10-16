@@ -1,0 +1,23 @@
+<UI version="4.0" >
+ <class>DTestListWidget</class>
+ <widget class="QWidget" name="DTestListWidget" >
+  <property name="objectName" >
+   <string notr="true">DTestListWidget</string>
+  </property>
+  <property name="geometry" >
+   <rect>
+	<x>0</x>
+	<y>0</y>
+	<width>400</width>
+	<height>300</height>
+   </rect>
+  </property>
+  <property name="windowTitle" >
+   <string>DTestListWidget</string>
+  </property>
+ </widget>
+ <layoutDefault spacing="6" margin="11" />
+ <pixmapfunction></pixmapfunction>
+ <resources/>
+ <connections/>
+</UI>
